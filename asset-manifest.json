@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/isharenodes/static/css/main.a2e8927e.css",
+    "main.js": "/isharenodes/static/js/main.3956634c.js",
+    "static/js/453.8ab44547.chunk.js": "/isharenodes/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.svg": "/isharenodes/static/media/logo.aac4571cdb4c8d7faed27ed4aaeab5ab.svg",
+    "index.html": "/isharenodes/index.html",
+    "main.a2e8927e.css.map": "/isharenodes/static/css/main.a2e8927e.css.map",
+    "main.3956634c.js.map": "/isharenodes/static/js/main.3956634c.js.map",
+    "453.8ab44547.chunk.js.map": "/isharenodes/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e8927e.css",
+    "static/js/main.3956634c.js"
+  ]
+}

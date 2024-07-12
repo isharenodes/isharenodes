@@ -1,0 +1,8 @@
+{
+  "short_name": "iShareNodes",
+  "name": "Your Shared Masternode Hosting Platform",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
